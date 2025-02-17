@@ -1,0 +1,19 @@
+{
+  "environment" : "dev",
+  "default" : {
+    "browser" : "chrome",
+    "baseUrl" : "",
+    "implicitTimeOut" : 20
+
+  },
+  "dev" : {
+    "browser" : "firefox",
+    "implicitTimeOut" : 20
+  },
+  "beta" : {
+
+  },
+  "prod" : {
+
+  }
+}
